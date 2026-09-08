@@ -212,6 +212,7 @@ You don't need to be the smartest person in the room to get good at this — you
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0027-remove-element) |
 ## Trie
 |  |
 | ------- |
@@ -228,4 +229,5 @@ You don't need to be the smartest person in the room to get good at this — you
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
