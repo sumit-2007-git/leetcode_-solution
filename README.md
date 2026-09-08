@@ -205,4 +205,13 @@ You don't need to be the smartest person in the room to get good at this — you
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
