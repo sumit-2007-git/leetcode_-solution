@@ -189,3 +189,11 @@ You don't need to be the smartest person in the room to get good at this — you
 ⭐ **If this motivated you even a little, star it and start your own streak today!** ⭐
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
