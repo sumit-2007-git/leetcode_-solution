@@ -196,4 +196,13 @@ You don't need to be the smartest person in the room to get good at this — you
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0013-roman-to-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
