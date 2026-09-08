@@ -207,6 +207,7 @@ You don't need to be the smartest person in the room to get good at this — you
 | [0013-roman-to-integer](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -230,4 +231,21 @@ You don't need to be the smartest person in the room to get good at this — you
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
