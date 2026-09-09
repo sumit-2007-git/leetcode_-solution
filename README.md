@@ -195,6 +195,7 @@ You don't need to be the smartest person in the room to get good at this — you
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0013-roman-to-integer) |
 ## Hash Table
@@ -253,4 +254,12 @@ You don't need to be the smartest person in the room to get good at this — you
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0035-search-insert-position) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
