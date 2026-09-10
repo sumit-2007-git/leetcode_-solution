@@ -216,6 +216,7 @@ You don't need to be the smartest person in the room to get good at this — you
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Trie
 |  |
 | ------- |
@@ -262,4 +263,8 @@ You don't need to be the smartest person in the room to get good at this — you
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
