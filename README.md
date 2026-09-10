@@ -216,6 +216,7 @@ You don't need to be the smartest person in the room to get good at this — you
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Trie
 |  |
@@ -266,5 +267,10 @@ You don't need to be the smartest person in the room to get good at this — you
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sumit-2007-git/leetcode_-solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
